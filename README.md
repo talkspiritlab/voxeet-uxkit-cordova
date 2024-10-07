@@ -1,3 +1,5 @@
+## ⚠️ THIS PROJECT IS NOT MAINTAINED NOR USED BY OUR TEAM ANY MORE. PLEASE DO NOT USE IT. 
+
 # Voxeet UXKit Cordova
 
 ## SDK License agreement
